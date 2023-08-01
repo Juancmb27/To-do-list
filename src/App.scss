@@ -30,8 +30,8 @@ body {
 $colorPink: #fd722d;
 $colorPinkHover:#fd722d;
 
-$colorBlue: #25b0bc;
-$colorBlueHover:#166b72;
+$colorBlue: #10bc10;
+$colorBlueHover:#10bc10;
 
 @mixin button($class, $color, $colorHover) {
   .button.#{$class}{background: $color;}
@@ -76,8 +76,8 @@ $colorBlueHover:#166b72;
 /** CHECKBOX*/
 /* Shaw : https://codepen.io/shshaw/pen/WXMdwE */
 $duration: 0.4s;
-$stroke: #42d7e4;
-$colorText: #076b74;
+$stroke: #10bc10;
+$colorText: black;
 $colorTextChecked: #a5e7ec;
 
 .todo {
